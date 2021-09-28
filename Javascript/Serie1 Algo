@@ -1,0 +1,25 @@
+Serie1
+
+Exercice 1
+Ecrire un algorithme qui demande à l’utilisateur un nombre compris entre 1 et 3 jusqu’à ce 
+que la réponse convienne. ( utilisation de tantque)
+
+Exercice2 
+Ecrire un algorithme qui permet affiche les nombres de 1 à 20
+(utilisation de la structure pour )
+
+Exercice3 
+Ecrire un algorithme qui permet initialise deux variables 
+par Emma  et nuel  Afficher en concatenant les deux chaines la chaine complete.
+( utilisation de l'opérateur de concatenation de chaine de caractères +)
+
+Exercice4
+Ecrire un algorithme qui permet de dire si une personne est majeur ou mineur 
+( l'age de la majorité est a 18) utilisation de si 
+
+Exercice5
+Ecrire un algorithme qui demande un nombre de départ, et qui calcule la somme des entiers 
+jusqu’à ce nombre. Par exemple, si l’on entre 5, le programme doit calculer :
+1 + 2 + 3 + 4 + 5 = 15
+NB : on souhaite afficher uniquement le résultat, pas la décomposition du calcul.
+
